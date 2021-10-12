@@ -1,12 +1,12 @@
-## ABOUT THE PROJECT
+### ABOUT THE PROJECT
 
 This project explores the New York Payroll dataset.
 
-## ABOUT THE DATASET:
+### ABOUT THE DATASET:
 
 
 
-## CONCLUSION:
+### CONCLUSION:
 
 - We saw that dataset contained information about employment provided by givenment agencies in New York from 2014 to 2020.
 
