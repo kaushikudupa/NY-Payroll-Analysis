@@ -4,6 +4,7 @@ This project explores the New York Payroll dataset.
 
 ### ABOUT THE DATASET:
 
+The data has 17 columns that contains information about 3923290 employees including the agency, first and last names of the employee, working borough, salary information, etc. More details about the dataset is available here: https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e
 
 
 ### CONCLUSION:
