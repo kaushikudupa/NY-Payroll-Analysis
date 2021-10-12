@@ -1,6 +1,6 @@
 ### ABOUT THE PROJECT
 
-This project explores the New York Payroll dataset. The focus is on presenting some key findings through the exploration process in the form of visualisations. We use python for this purpuse. The libraries used are listed below:
+This project explores the New York Payroll dataset. The focus is on presenting some key findings through the exploration process in the form of visualisations. We use python for this purpuse. The analysis is presented in the form of a Jupyter Notebook. The libraries used are listed below:
 
 - pandas
 - matplotlib.pyplot
